@@ -1,0 +1,13 @@
+openai>=1.99.9,<2.0.0
+langchain>=0.1.20
+langchain-openai>=0.3.32
+langchain-experimental
+pandas
+numpy
+faiss-cpu
+streamlit
+sqlalchemy
+tqdm
+scikit-learn
+python-dotenv
+IPython
