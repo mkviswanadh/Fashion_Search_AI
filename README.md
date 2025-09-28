@@ -42,6 +42,10 @@ To design and build an AI-powered Conversational Fashion Assistant for Myntra th
 
 - ✅ Support conversational agents for SQL, data analytics, and real-time decision support
 
+### Source Dataset
+
+https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset/data
+
 ### Project Overview
 
 **Myntra Conversational Fashion Search AI Assistant** is an AI-powered Streamlit web application that allows users to search fashion products using natural language queries like:
@@ -86,9 +90,9 @@ The system is designed to simulate a **smart, real-time personal shopping assist
                       └────────────────────────────┘
 
 
-### Why LangChain is an Ideal Framework ?
+### Why LangChain is an Ideal Framework for Fashion Product Search Assistant ?
 
-| Feature                       | Why It’s Ideal for Your Fashion Assistant                                          |
+| Feature                       | Why It’s Ideal for Fashion Assistant Product Search Assistant ?                    |
 | ----------------------------- | ---------------------------------------------------------------------------------- |
 | **Prompt Management**         | Templates for extracting filters, summarizing results, handling follow-ups         |
 | **LLM Chains**                | Easily connect user inputs → prompts → LLM → response                              |
@@ -125,6 +129,10 @@ The system is designed to simulate a **smart, real-time personal shopping assist
 | 🧾 **SQL Agent**                       | LangChain SQL agent to query product DB                                              |
 | 🎨 **Beautiful UI with CSS**           | Styled interface with custom buttons, dark mode, and grid layout                     |
 | 🧹 **Clear Query Button**              | Instantly resets the query and clears results                                        |
+
+### Sample Data Preview
+
+![alt text](snapshots/image11.png)
 
 ### User Queries & Responses using Conversational Agent 
 
